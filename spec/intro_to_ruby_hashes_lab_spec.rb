@@ -8,3 +8,9 @@ new_hash[ :brush ]
 pioneer = {
   :name => 'Grace Hopper'
 }
+
+id_generator = {
+  :id = 54
+}
+
+id_generator
