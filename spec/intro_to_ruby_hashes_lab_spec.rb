@@ -4,3 +4,7 @@ new_hash = {
 }
 
 new_hash[ :brush ]
+
+pioneer = {
+  :name => 'Grace Hopper'
+}
